@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206713054310",
+    "project_id": "widespace-c7cf0",
+    "storage_bucket": "widespace-c7cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206713054310:android:a0bfd366e0fed19cdbf9a7",
+        "android_client_info": {
+          "package_name": "com.example.widespace_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206713054310-731cr1i8sdec6crp4q9calddkg24fu0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABic0DxD4E8PHz5jmstBgohxIfSAZWymw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206713054310-731cr1i8sdec6crp4q9calddkg24fu0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
